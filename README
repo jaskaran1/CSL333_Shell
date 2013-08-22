@@ -1,3 +1,7 @@
+I've implemented a linux shell and a clone shell like program using system calls like fork,execve,etc.
+
+The source code are the .c files.
+
 The implementation assumes that you've the readline library in /usr/lib.
 
 If not install it using:
