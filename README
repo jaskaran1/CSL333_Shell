@@ -1,0 +1,10 @@
+The implementation assumes that you've the readline library in /usr/lib.
+
+If not install it using:
+sudo apt-get install libreadline-dev
+
+A makefile has been provided in Jaskaran_2011CS1012 folder.
+
+To run makefile.Go to the directory Jaskaran_2011CS1012 after unzipping the tar archive and then type make on the terminal.
+
+After that type ./myshell to execute myshell.c or ./closh to execute closh.c 
