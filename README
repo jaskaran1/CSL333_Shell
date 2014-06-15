@@ -1,4 +1,5 @@
-I've implemented a linux shell and a clone shell like program using system calls like fork,execve,etc.
+I've implemented a linux shell and a clone shell like program using system calls like fork,execve,etc as a part of the CSL333-Operating Systems 
+course at IIT-Ropar.
 
 The source code are the .c files.
 
