@@ -1,4 +1,4 @@
-Implemented of Linux Shell using system calls like fork,execve,etc.
+Implementation of Linux Shell like behavior using system calls like fork,execve,etc.
 
 This was a course project in Operating Systems course at IIT-Ropar.
 
